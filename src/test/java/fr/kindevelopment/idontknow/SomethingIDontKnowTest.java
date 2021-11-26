@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 public class SomethingIDontKnowTest {
 
 	@Test
-	public void sayIDontKnow () {
+	public void sayIDontKnowTest () {
 		assertTrue("I don't know".equals(SomethingIDontKnow.sayIDontKnow()));		
 	}
 }
