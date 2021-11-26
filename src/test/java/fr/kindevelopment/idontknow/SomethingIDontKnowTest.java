@@ -9,6 +9,6 @@ public class SomethingIDontKnowTest {
 
 	@Test
 	public void sayIDontKnowTest () {
-		assertTrue("I don't know".equals(SomethingIDontKnow.sayIDontKnow()));		
+		assertTrue("I don't knaaaaow".equals(SomethingIDontKnow.sayIDontKnow()));		
 	}
 }
